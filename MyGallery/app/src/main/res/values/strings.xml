@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="image_title">Image Title</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="no_images">No images found</string>
+    <string name="upload_complete">Upload Complete</string>
+    <string name="upload_success_message">Your image has been uploaded successfully!</string>
+    <string name="ok">OK</string>
+    <string name="uploaded_on">Uploaded on %s</string>
+    <string name="selected_image">Selected Image</string>
+</resources>
