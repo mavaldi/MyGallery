@@ -1,15 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyGallery</string>
-    <string name="upload_image">Upload Image</string>
-    <string name="image_title">Image Title</string>
-    <string name="select_image">Select Image</string>
-    <string name="upload">Upload</string>
-    <string name="cancel">Cancel</string>
-    <string name="back">Back</string>
-    <string name="no_images">No images found</string>
-    <string name="upload_complete">Upload Complete</string>
-    <string name="upload_success_message">Your image has been uploaded successfully!</string>
-    <string name="ok">OK</string>
-    <string name="uploaded_on">Uploaded on %s</string>
-    <string name="selected_image">Selected Image</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="navigation_rail">Navigation Rail</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_back">Back</string>
+    <string name="details_screen">Details Screen</string>
+    <string name="tab_inbox">Inbox</string>
+    <string name="tab_sent">Sent</string>
+    <string name="tab_drafts">Drafts</string>
+    <string name="tab_spam">Spam</string>
+    <string name="logo">Logo</string>
+
+    <string name="profile">Profile</string>
+    <string name="reply">Reply</string>
+    <string name="reply_all">Reply All</string>
+    <string name="continue_composing">Upload</string>
+    <string name="delete">Delete</string>
+    <string name="move_to_inbox">Move to Inbox</string>
+
+    <string name="account_4_first_name">Tracy</string>
+    <string name="account_4_last_name">Alvarez</string>
+    <string name="account_4_email">tracealvie@altostrat.com</string>
+
+    <string name="account_5_first_name">Allison</string>
+    <string name="account_5_last_name">Trabucco</string>
+    <string name="account_5_email">atrabucco222@altostrat.com</string>
+
+    <string name="account_6_first_name">Ali</string>
+    <string name="account_6_last_name">Connors</string>
+    <string name="account_6_email">aliconnors@altostrat.com</string>
+
+    <string name="account_7_first_name">Alberto</string>
+    <string name="account_7_last_name">Williams</string>
+    <string name="account_7_email">albertowilliams124@altostrat.com</string>
+
+    <string name="account_8_first_name">Kim</string>
+    <string name="account_8_last_name">Alen</string>
+    <string name="account_8_email">alen13@altostrat.com</string>
+
+    <string name="account_9_first_name">Google</string>
+    <string name="account_9_last_name">Express</string>
+    <string name="account_9_email">express@altostrat.com</string>
+
+    <string name="account_10_first_name">Sandra</string>
+    <string name="account_10_last_name">Adams</string>
+    <string name="account_10_email">sandraadams@altostrat.com</string>
+
+    <string name="account_11_first_name">Trevor</string>
+    <string name="account_11_last_name">Hansen</string>
+    <string name="account_11_email">trevorhandsen@altostrat.com</string>
+
+    <string name="account_12_first_name">Sean</string>
+    <string name="account_12_last_name">Holt</string>
+    <string name="account_12_email">sholt@altostrat.com</string>
+
+    <string name="account_13_first_name">Frank</string>
+    <string name="account_13_last_name">Hawkins</string>
+    <string name="account_13_email">fhawkank@altostrat.com</string>
+
+    <string name="email_0_subject">Image Details</string>
+    <string name="email_0_body">
+        File Name	hut_mountain.jpg
+
+File Format	JPG
+
+File Size	2.1 MB
+
+Dimensions	2480 × 3508 pixels (A4 size)
+
+Resolution	300 DPI
+
+Color Space	RGB
+
+Bit Depth	24-bit
+
+Software	Procreate 5.3
+
+Created On	2025-04-15 19:21:00
+    </string>
+    <string name="email_0_time">20 mins ago</string>
+
+    <string name="email_1_subject">Image Details</string>
+    <string name="email_1_body">
+File Name | train_view.png
+
+File Format | PNG
+
+File Size | 3.5 MB
+
+Dimensions | 3840 × 2160 pixels (4K UHD)
+
+Resolution | 300 DPI
+
+Color Space | RGB
+
+Bit Depth | 24-bit
+
+Created On | 2025-04-26 10:45:00
+
+Software | Adobe Photoshop 2024
+
+Camera (if photo) | Sony A7 III, 50mm lens
+
+Exposure (if photo) | 1/200 sec, f/2.8, ISO 400
+    </string>
+    <string name="email_1_time">40 mins ago</string>
+
+    <string name="email_2_subject">Image Details</string>
+    <string name="email_2_body">
+File Name | monalisa.tiff
+
+File Format | TIFF
+
+File Size | 9.6 MB
+
+Dimensions | 3000 × 3000 pixels
+
+Resolution | 300 DPI
+
+Color Space | Adobe RGB (1998)
+
+Bit Depth | 32-bit
+
+Camera | Canon EOS R6, 35mm lens
+
+Exposure | 1/125 sec, f/4.0, ISO 200
+    </string>
+    <string name="email_2_time">1 hour ago</string>
+
+    <string name="email_3_subject">Image Details</string>
+    <string name="email_3_body">
+File Name | van_gogh.png
+
+File Format | PNG
+
+File Size | 5.2 MB
+
+Dimensions | 4096 × 2304 pixels (4K)
+
+Resolution | 300 DPI
+
+Color Space | RGB
+
+Software | Blender 4.0
+
+Render Engine | Cycles
+
+Created On | 2025-03-22 13:45:00
+    </string>
+    <string name="email_3_time">2 hours ago</string>
+
+    <string name="email_4_subject">Image Details</string>
+    <string name="email_4_body">
+File Name | cat_picture.jpg
+
+File Format | JPG
+
+File Size | 12.4 MB
+
+Dimensions | 1080 × 1920 pixels
+
+Resolution | 72 DPI
+
+Color Space | sRGB IEC61966-2.1
+
+Layers | 22
+
+Software | Adobe Photoshop 2023
+
+Created On | 2025-02-28 11:30:00
+    </string>
+    <string name="email_4_time">2 hours ago</string>
+
+    <string name="email_5_subject">Image Details</string>
+    <string name="email_5_body" >File Name | train_view.png
+
+File Format | PNG
+
+File Size | 3.5 MB
+
+Dimensions | 3840 × 2160 pixels (4K UHD)
+
+Resolution | 300 DPI
+
+Color Space | RGB
+
+Bit Depth | 24-bit
+
+Created On | 2025-04-26 10:45:00
+
+Software | Adobe Photoshop 2024
+
+Camera (if photo) | Sony A7 III, 50mm lens
+
+Exposure (if photo) | 1/200 sec, f/2.8, ISO 400</string>
+    <string name="email_5_time">2 hours ago</string>
+
+    <string name="email_6_subject">Image Details</string>
+    <string name="email_6_body">
+        Cannot take image content!
+    </string>
+    <string name="email_6_time">2 hours ago</string>
+
+    <string name="email_7_subject">Image Details</string>
+    <string name="email_7_body">
+        Your shoes should be waiting for you at home!
+    </string>
+    <string name="email_7_time">2 hours ago</string>
+
+    <string name="email_8_subject">Image Details</string>
+    <string name="email_8_body">
+        Your update, 0.1.1, is now live on the Play Store and available for your alpha users to
+        start testing.\n\nYour alpha testers will be automatically notified. If you\'d rather send
+        them a link directly, go to your Google Play Console and follow the instructions for
+        obtaining an open alpha testing link.
+    </string>
+    <string name="email_8_time">3 hours ago</string>
+
+    <string name="email_9_subject">Image Details</string>
+    <string name="email_9_body">
+        Hey,\n\nWanted to email and see what you thought of
+    </string>
+    <string name="email_9_time">3 hours ago</string>
+
+    <string name="email_10_subject">Image Details</string>
+    <string name="email_10_body">
+        Looking for the best hiking trails in your area? TrailGo gets you on the path to the
+        outdoors faster than you can pack a sandwich.\n\nWhether you\'re an experienced hiker or
+        just looking to get outside for the afternoon, there\'s a segment that suits you.
+    </string>
+    <string name="email_10_time">3 hours ago</string>
+
+    <string name="email_11_subject">Image Details</string>
+    <string name="email_11_body">
+        You\'ve been selected as a winner in our latest raffle! To claim your prize, click on the
+        link.
+    </string>
+    <string name="email_11_time">3 hours ago</string>
+
 </resources>
